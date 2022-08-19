@@ -1,0 +1,17 @@
+[
+    {
+        "name": "rinkeby",
+        "id": "4",
+        "chain_id": "0x4"
+    },
+    {
+        "name": "ropsten",
+        "chain_id": "0x3",
+        "id": "3"
+    },
+    {
+        "name": "smart chain",
+        "chain_id": "0x38",
+        "id": "56"
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "0x4": {
+        "router": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+        "weth": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+        "lottery": ""
+    },
+    "0x3": {
+        "router": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
+        "weth": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+        "lottery": ""
+    },
+    "0x38": {
+        "router": "0x10ed43c718714eb63d5aa57b78b54704e256024e",
+        "weth": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "lottery": ""
+    }
+}
